@@ -112,6 +112,23 @@ namespace ServerTCP
 
         }
 
+        byte[] Serialize(object obj)
+        {
+            MemoryStream Stream = new MemoryStream();
+            BinaryFormatter Formatter = new BinaryFormatter();
+
+            Formatter.Serialize(Stream, obj);
+            return Stream.ToArray();
+        }
+
+        object Deserialize(byte[] data)
+        {
+            MemoryStream Stream = new MemoryStream(data);
+            BinaryFormatter Formatter = new BinaryFormatter();
+
+            return Formatter.Deserialize(Stream);
+
+        }
         void AddMessage(string s)
         {
             listView1.Items.Add(new ListViewItem() { Text = s });
