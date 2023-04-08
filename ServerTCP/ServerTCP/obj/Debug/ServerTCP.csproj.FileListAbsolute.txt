@@ -1,0 +1,11 @@
+C:\Users\BaoPC\source\repos\ServerTCP\ServerTCP\bin\Debug\ServerTCP.exe.config
+C:\Users\BaoPC\source\repos\ServerTCP\ServerTCP\bin\Debug\ServerTCP.exe
+C:\Users\BaoPC\source\repos\ServerTCP\ServerTCP\bin\Debug\ServerTCP.pdb
+C:\Users\BaoPC\source\repos\ServerTCP\ServerTCP\obj\Debug\ServerTCP.csproj.AssemblyReference.cache
+C:\Users\BaoPC\source\repos\ServerTCP\ServerTCP\obj\Debug\ServerTCP.csproj.SuggestedBindingRedirects.cache
+C:\Users\BaoPC\source\repos\ServerTCP\ServerTCP\obj\Debug\ServerTCP.ServerTCP.resources
+C:\Users\BaoPC\source\repos\ServerTCP\ServerTCP\obj\Debug\ServerTCP.Properties.Resources.resources
+C:\Users\BaoPC\source\repos\ServerTCP\ServerTCP\obj\Debug\ServerTCP.csproj.GenerateResource.cache
+C:\Users\BaoPC\source\repos\ServerTCP\ServerTCP\obj\Debug\ServerTCP.csproj.CoreCompileInputs.cache
+C:\Users\BaoPC\source\repos\ServerTCP\ServerTCP\obj\Debug\ServerTCP.exe
+C:\Users\BaoPC\source\repos\ServerTCP\ServerTCP\obj\Debug\ServerTCP.pdb

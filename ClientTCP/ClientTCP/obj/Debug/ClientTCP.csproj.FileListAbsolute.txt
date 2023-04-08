@@ -1,0 +1,11 @@
+C:\Users\BaoPC\source\repos\ClientTCP\ClientTCP\bin\Debug\ClientTCP.exe.config
+C:\Users\BaoPC\source\repos\ClientTCP\ClientTCP\bin\Debug\ClientTCP.exe
+C:\Users\BaoPC\source\repos\ClientTCP\ClientTCP\bin\Debug\ClientTCP.pdb
+C:\Users\BaoPC\source\repos\ClientTCP\ClientTCP\obj\Debug\ClientTCP.csproj.AssemblyReference.cache
+C:\Users\BaoPC\source\repos\ClientTCP\ClientTCP\obj\Debug\ClientTCP.csproj.SuggestedBindingRedirects.cache
+C:\Users\BaoPC\source\repos\ClientTCP\ClientTCP\obj\Debug\ClientTCP.ClientTCP.resources
+C:\Users\BaoPC\source\repos\ClientTCP\ClientTCP\obj\Debug\ClientTCP.Properties.Resources.resources
+C:\Users\BaoPC\source\repos\ClientTCP\ClientTCP\obj\Debug\ClientTCP.csproj.GenerateResource.cache
+C:\Users\BaoPC\source\repos\ClientTCP\ClientTCP\obj\Debug\ClientTCP.csproj.CoreCompileInputs.cache
+C:\Users\BaoPC\source\repos\ClientTCP\ClientTCP\obj\Debug\ClientTCP.exe
+C:\Users\BaoPC\source\repos\ClientTCP\ClientTCP\obj\Debug\ClientTCP.pdb
